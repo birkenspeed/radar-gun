@@ -7,3 +7,5 @@ Hardware used for this project:
 
 - MicroSD Card Adapter
 - MicroSD Card
+
+- 5V power supply
